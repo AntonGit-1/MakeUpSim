@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9339901d9ecdfe4e9c5e515d88aa712, type: 3}
+  m_Name: ColorCollection
+  m_EditorClassIdentifier: 
+  blushBrush_colors: {fileID: 11400000, guid: d30c90b85cc96c94ab0a0834235281f1, type: 2}
+  eyeBrush_colors: {fileID: 11400000, guid: d1bbdac9ae66f9b4b8d75bb2b252aef6, type: 2}

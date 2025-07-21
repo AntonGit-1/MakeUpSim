@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aab5b93997ef9484bbffe06536ef6982, type: 3}
+  m_Name: ShadowsGirlSprites_data
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: 5c7f3b62902c81d4091e03897d81bd87, type: 3}
+  - {fileID: 21300000, guid: 219544b7fd802334b95bfacb60fde2d3, type: 3}
+  - {fileID: 21300000, guid: ba64ae97044a6fa4186bef96081ed779, type: 3}
+  - {fileID: 21300000, guid: 0a94dca355a0d4d4f81892da3d6e7761, type: 3}
+  - {fileID: 21300000, guid: 4e7be0f4df4c0534fabbbe2f939edc06, type: 3}
+  - {fileID: 21300000, guid: b0ad1e42b6406da4facdacc2f90d8393, type: 3}
+  - {fileID: 21300000, guid: d803b9ab878d5d547a9341c9086da404, type: 3}
+  - {fileID: 21300000, guid: 232dd04d82af9dc4e9fcdf95653aa07f, type: 3}
+  - {fileID: 21300000, guid: 84420e22c1aefd047a35959d4a08bd14, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aab5b93997ef9484bbffe06536ef6982, type: 3}
+  m_Name: BlushGirlSprites_data
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: 5d95242daa164a74fa12462807d0d3d5, type: 3}
+  - {fileID: 21300000, guid: 531d7bd5fcaa63146a4b6e0b20614deb, type: 3}
+  - {fileID: 21300000, guid: 2f6987f9f9d6ae84685b9d94d72c5566, type: 3}
+  - {fileID: 21300000, guid: e9ba0b50144681f40a34454b3a43bb53, type: 3}
+  - {fileID: 21300000, guid: 73caf709506737a41a64a1a4a7f9f883, type: 3}
+  - {fileID: 21300000, guid: b4c192bc6982f574a8ac9fb7b045bbb2, type: 3}
+  - {fileID: 21300000, guid: 7546ab508904e8b488534fab7258c803, type: 3}
+  - {fileID: 21300000, guid: 141bb8f2e785a984e9be7c437275db17, type: 3}
+  - {fileID: 21300000, guid: 1e7e1ca395c04014c95fb00dd99914b5, type: 3}

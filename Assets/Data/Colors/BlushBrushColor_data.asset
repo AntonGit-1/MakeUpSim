@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0a0c7fe3ddbb2d47af28a1fbdab14e2, type: 3}
+  m_Name: BlushBrushColor_data
+  m_EditorClassIdentifier: 
+  colors:
+  - {r: 1, g: 0.69803923, b: 0.8078432, a: 1}
+  - {r: 0.9568628, g: 0.5294118, b: 0.63529414, a: 1}
+  - {r: 1, g: 0.76470596, b: 0.69803923, a: 1}
+  - {r: 0.882353, g: 0.63529414, b: 0.47450984, a: 1}
+  - {r: 1, g: 0.5882353, b: 0.5921569, a: 1}
+  - {r: 0.92549026, g: 0.5764706, b: 0.5372549, a: 1}
+  - {r: 0.9490197, g: 0.69411767, b: 0.8941177, a: 1}
+  - {r: 0.9921569, g: 0.5372549, b: 0.45098042, a: 1}
+  - {r: 0.9921569, g: 0.69803923, b: 0.5254902, a: 1}

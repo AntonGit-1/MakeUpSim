@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 439300e512cbe6c4caa47fc9ed5c9990, type: 3}
+  m_Name: SpriteCollection
+  m_EditorClassIdentifier: 
+  girlBlush_sprites: {fileID: 11400000, guid: 240bbee0182e244468b4fd553e99aa6b, type: 2}
+  girlLipstick_sprites: {fileID: 11400000, guid: 9b20075aa27ca654d80a656900abe011, type: 2}
+  girlShadows_sprites: {fileID: 11400000, guid: 4986dacf8feceea4d89b4b54d66dea01, type: 2}
+  blush_sprites: {fileID: 11400000, guid: 932f0a7d4a2c4064fa6ea6b96b344f89, type: 2}
+  lipstick_sprites: {fileID: 11400000, guid: ef48bd9b7a878ef4cb611df778cbddc7, type: 2}
+  shadows_sprites: {fileID: 11400000, guid: 093a1f61e75aec94e86f22b2d174fec4, type: 2}

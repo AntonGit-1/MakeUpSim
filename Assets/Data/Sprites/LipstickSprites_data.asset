@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aab5b93997ef9484bbffe06536ef6982, type: 3}
+  m_Name: LipstickSprites_data
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: 8d847a4a8e90a9d41b66d881efac10d3, type: 3}
+  - {fileID: 21300000, guid: f16017bba3cd75442865eeca8161d201, type: 3}
+  - {fileID: 21300000, guid: 4f566de1182764945999beb14df36717, type: 3}
+  - {fileID: 21300000, guid: bcf9379be08628c4bb70866e9a50a78a, type: 3}
+  - {fileID: 21300000, guid: c25bf57c1e623f6438e8d89bbfc06270, type: 3}
+  - {fileID: 21300000, guid: 4c0b137fd5d24ae4b879d570fb2856c3, type: 3}

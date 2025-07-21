@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aab5b93997ef9484bbffe06536ef6982, type: 3}
+  m_Name: ShadowsSprites_data
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: 15ee20b7185f6934e9961d6da31d0da1, type: 3}
+  - {fileID: 21300000, guid: a56feab4a32446549b697f2d052f8fae, type: 3}
+  - {fileID: 21300000, guid: 3c96656ee3ab3e249a18e6d515d5c114, type: 3}
+  - {fileID: 21300000, guid: f57c625c25a9ec94b887193948bc9fa7, type: 3}
+  - {fileID: 21300000, guid: 68f903bfaaf401c43b367567b2547733, type: 3}
+  - {fileID: 21300000, guid: a588733888ec88642a7d2d0287f2df2e, type: 3}
+  - {fileID: 21300000, guid: fd6468867476e38469a117617ea043c4, type: 3}
+  - {fileID: 21300000, guid: ccf4118f81b43d149b3487f2708280f2, type: 3}
+  - {fileID: 21300000, guid: 51b7ffdb5e3628f4c93d4fe3e64b47a2, type: 3}
